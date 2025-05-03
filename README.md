@@ -94,9 +94,9 @@ May 5, 2025
 ## 📁 Repository Contents
 
 - 📝 `README.md` – Project summary and explanation  
-- 📸 `network_diagram.png` – Network topology diagram (to be added)  
-- 📂 `configs/` – Sample router, switch, and server configuration files (optional)  
-- 📊 `report.pptx` – Original presentation (attached in this repo)
+- 📸 `network_design.png` – Network topology diagram 
+- 📊 `project presentation.pptx` – Original presentation (attached in this repo)
+- 📸 'zeronx_network_setup.pkt' - The working design made using CISCO Packet Tracer
 
 ---
 
